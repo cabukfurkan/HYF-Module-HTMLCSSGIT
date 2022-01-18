@@ -1,0 +1,3 @@
+1.To create a hidden folder after using mkdir command just before name of the folder we use . like .newfolder. To create a hidden file we write " touch .filename". To display hidden folders/files we write ls -a in the corresponded directory and hidden folders/files will be start with a dot. 
+2.To create nested directories after writing mkdir command we write -p like mkdir -p /these/folders/are/just/for/fun
+3.To append a message to a file we use echo command then message in quotes then >> sign then the file name. To success the desired output command that we should write is, echo first message >> plain.txt hit enter then again echo seccond message >> plain.txt hit enter 

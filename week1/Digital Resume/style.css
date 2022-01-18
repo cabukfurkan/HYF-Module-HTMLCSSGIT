@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  min-height: 100vh;
+}
+.main-div {
+  display: flex;
+}
+.section-left-part {
+  width: 27%;
+  min-height: 100vh;
+  background-color: gray;
+}
+
+.section-right-part {
+  background-color: whitesmoke;
+  min-height: 100vh;
+  width: 73%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.pp-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-top: 50px;
+}
+.pp-div img {
+  width: 150px;
+  border-radius: 40%;
+}
+
+.article-about-me {
+  text-align: center;
+  padding: 25px;
+}
+
+hr {
+  margin-top: 15px;
+  border: 2px solid rgb(231, 231, 231);
+  width: 80%;
+}
+
+.article-skills {
+  margin-top: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.article-skills ul {
+  list-style: none;
+  text-align: left;
+  padding-inline-start: 17px;
+}
+.article-skills ul li {
+  padding-bottom: 15px;
+}
+
+.rigt-upper-div {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+}
+
+.contact-deatils {
+  padding-right: 100px;
+}
+.contact-deatils ul {
+  list-style: none;
+}
+.contact-deatils ul li {
+  padding-bottom: 15px;
+}
+
+.div-wrapper {
+  display: flex;
+}
+.place {
+  width: 25%;
+}
+.article-experience {
+  width: 75%;
+  padding-right: 20px;
+}
+.article-education {
+  width: 75%;
+  padding-right: 20px;
+}
