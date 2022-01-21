@@ -2,7 +2,7 @@
 
 ## CLI Exercise
 
-By using _CLI_ a file was created with **touch** command. Than I explained some of CLI rules.
+By using _CLI_ **plain.txt** file was created with **touch** command. Than I explained some of CLI rules.
 
 ## Digital Resume
 
